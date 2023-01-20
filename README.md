@@ -76,6 +76,6 @@ This repository contains all projects carried out using the Excel functions such
 
   - **Powerpoint Document**
      
-     - [ ] *View the Presentation document:* HERE
+     - [ ] *View the Presentation document:* [HERE](https://github.com/ifeoluwa-23/Excel-Projects/blob/main/EP1%20Files/EP1_Presentation.pptx)
      - [ ] *View the Recommendation provided:* [HERE](https://github.com/ifeoluwa-23/Excel-Projects/blob/main/EP1%20Files/EP1_Recommendations.jpg)
      
