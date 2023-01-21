@@ -79,3 +79,11 @@ This repository contains all projects carried out using the Excel functions such
      - [ ] *View the Presentation document:* [HERE](https://github.com/ifeoluwa-23/Excel-Projects/blob/main/EP1%20Files/EP1_Presentation.pptx)
      - [ ] *View the Recommendation provided:* [HERE](https://github.com/ifeoluwa-23/Excel-Projects/blob/main/EP1%20Files/EP1_Recommendations.jpg)
      
+
+ ## EP2 - GoogleDS Sales Analysis
+  
+  The aim of the project was to create a dashboard using Excel to reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
+ 
+   - *Click to view the Dashboard:* [HERE](https://github.com/ifeoluwa-23/Excel-Projects/blob/main/EP1%20Files/EP1_Presentation.pptx)
+    
+   - *View the Analysis Summary:* [HERE](https://github.com/ifeoluwa-23/Excel-Projects/blob/main/EP1%20Files/EP1_Recommendations.jpg)
