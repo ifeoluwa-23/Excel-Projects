@@ -86,4 +86,4 @@ This repository contains all projects carried out using the Excel functions such
  
    - *Click to view the Dashboard:* [HERE](https://github.com/ifeoluwa-23/Excel-Projects/blob/main/EP2%20Files/EP2%20Dashboard.jpg)
     
-   - *View the Analysis Summary:* [HERE](https://github.com/ifeoluwa-23/Excel-Projects/blob/main/EP1%20Files/EP1_Recommendations.jpg)
+   - *View the Analysis Summary:* [HERE](https://github.com/ifeoluwa-23/Excel-Projects/blob/main/EP2%20Files/EP2_Sales%20Analysis%20Summary.docx)
