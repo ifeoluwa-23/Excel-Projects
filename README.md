@@ -84,6 +84,6 @@ This repository contains all projects carried out using the Excel functions such
   
   The aim of the project was to create a dashboard using Excel to reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
  
-   - *Click to view the Dashboard:* [HERE](https://github.com/ifeoluwa-23/Excel-Projects/blob/main/EP1%20Files/EP1_Presentation.pptx)
+   - *Click to view the Dashboard:* [HERE](https://github.com/ifeoluwa-23/Excel-Projects/blob/main/EP2%20Files/EP2%20Dashboard.jpg)
     
    - *View the Analysis Summary:* [HERE](https://github.com/ifeoluwa-23/Excel-Projects/blob/main/EP1%20Files/EP1_Recommendations.jpg)
